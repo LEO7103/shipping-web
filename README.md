@@ -1,20 +1,39 @@
 
 
 ## 首頁
-![範例圖片 0](https://github.com/LEO7103/shipping-web/blob/master/a01.JPG)
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a01.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
 
 
 ## 購物車介面
-![範例圖片 1](https://github.com/LEO7103/shipping-web/blob/master/a02.JPG)
+
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a02.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
+
+
 ## 結帳介面(含使用折價卷折抵金額)
-![範例圖片 2](https://github.com/LEO7103/shipping-web/blob/master/a03.JPG)
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a03.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
 
 ## 地址選擇
-![範例圖片 3](https://github.com/LEO7103/shipping-web/blob/master/a04.JPG)
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a04.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
 
 
 ## 串接Paypal金流結帳
-![範例圖片 4](https://github.com/LEO7103/shipping-web/blob/master/a05.JPG)
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a05.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
+
+## 成功後跳轉付款完成頁面
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a07.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
+
 
 ## 技術棧
 程式語言：PHP、JavaScript、SQL
