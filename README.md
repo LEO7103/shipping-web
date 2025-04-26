@@ -16,7 +16,12 @@
 ## 串接Paypal金流結帳
 ![範例圖片 4](https://github.com/LEO7103/shipping-web/blob/master/a05.JPG)
 
-
+## 技術棧
+程式語言：PHP、JavaScript、SQL
+後端框架：Laravel
+資料庫管理：MySQL
+版本控制：Git / GitHub
+其他工具：AJAX、DataTables、AWS EC2、PayPal API
 
 
 
