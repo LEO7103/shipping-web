@@ -18,11 +18,6 @@
 <img src="https://github.com/LEO7103/shipping-web/blob/master/a03.JPG?raw=true" alt="範例圖片 0" width="800">
 <br><br>
 
-## 地址選擇
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a04.JPG?raw=true" alt="範例圖片 0" width="800">
-<br><br>
-
 
 ## 串接Paypal金流結帳
 <br>
@@ -33,6 +28,13 @@
 <br>
 <img src="https://github.com/LEO7103/shipping-web/blob/master/a07.JPG?raw=true" alt="範例圖片 0" width="800">
 <br><br>
+
+## User查看明細
+<br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/a08.JPG?raw=true" alt="範例圖片 0" width="800">
+<br><br>
+
+
 
 
 ## 技術棧
