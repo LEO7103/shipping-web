@@ -6,35 +6,18 @@
 <br><br>
 
 
-## 購物車介面
-
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a02.JPG?raw=true" alt="範例圖片 0" width="800">
+## 功能介紹
+會員系統：實作不同等級會員帳號與權限控管機制
 <br><br>
-
-
-## 結帳介面(含使用折價卷折抵金額)
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a03.JPG?raw=true" alt="範例圖片 0" width="800">
+廠商管理：開發後台 CRUD 功能，支援商品與庫存管理
 <br><br>
-
-
-## 串接Paypal金流結帳
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a05.JPG?raw=true" alt="範例圖片 0" width="800">
+商品購物車：利用 AJAX 實現購物車即時更新與加購功能
 <br><br>
-
-## 成功後跳轉付款完成頁面
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a07.JPG?raw=true" alt="範例圖片 0" width="800">
+金流整合：成功串接 PayPal API，完成付款流程設計
 <br><br>
-
-## User查看明細
-<br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a08.JPG?raw=true" alt="範例圖片 0" width="800">
+後台管理：以 DataTables 呈現產品與訂單資訊，支援搜尋與篩選
 <br><br>
-
-
+網站部署：將專案部署至 AWS EC2 並完成環境設置
 
 
 ## 技術棧
