@@ -2,7 +2,29 @@
 
 ## 首頁
 <br>
-<img src="https://github.com/LEO7103/shipping-web/blob/master/a01.JPG?raw=true" alt="範例圖片 0" width="800">
+
+
+封面首頁<br><br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/1.png" alt="範例圖片 0" width="800">
+
+<br><br>
+
+購物車結帳頁面<br><br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/2.png" alt="範例圖片 0" width="800">
+<br><br>
+
+
+新增地址<br><br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/3.png" alt="範例圖片 0" width="800">
+<br><br>
+
+Paypal結帳頁面<br><br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/4.png" alt="範例圖片 0" width="800">
+<br><br>
+
+結帳成功<br><br>
+<img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/5.png" alt="範例圖片 0" width="800">
+
 <br><br>
 
 
