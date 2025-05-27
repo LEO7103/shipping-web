@@ -27,7 +27,7 @@ Paypal結帳頁面<br><br>
 
 <br><br>
 
-LINE PAY串接測試<br><br>
+LINE PAY串接<br><br>
 <img src="https://github.com/LEO7103/shipping-web/blob/master/public/uploads/６.png" alt="範例圖片 0" width="800">
 
 <br><br>
@@ -50,7 +50,7 @@ LINE PAY串接測試<br><br>
 後端框架：Laravel
 資料庫管理：MySQL
 版本控制：Git / GitHub
-其他工具：AJAX、DataTables、AWS EC2、PayPal API
+其他工具：AJAX、DataTables、AWS EC2、PayPal、LINEPAY
 
 
 
