@@ -38,7 +38,7 @@ LINE PAY串接<br><br>
 <br><br>
 商品購物車：利用 AJAX 實現購物車即時更新與加購功能
 <br><br>
-金流整合：成功串接 PayPal API，完成付款流程設計
+金流整合：成功串接 LINEPAY、PayPal，完成付款流程設計
 <br><br>
 後台管理：以 DataTables 呈現產品與訂單資訊，支援搜尋與篩選
 <br><br>
